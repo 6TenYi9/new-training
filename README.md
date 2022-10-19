@@ -1,9 +1,11 @@
 # Learn `git` concepts, not commands
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
+--
 
-**esto es una linea añadido al README.md**
+>**esto es una linea añadido al README.md con recuadro**
 
+--
 So, you want to use git, right? 
 
 But you don't just want to learn commands, you want to understand what you're using? 
